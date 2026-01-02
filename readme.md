@@ -18,16 +18,16 @@
 ## The Flow
 
 ```
-🔴 Token graduates on Pump.fun
+Token graduates on Pump.fun
             │
             ▼
-☁️  Metadata + Image uploaded to IPFS
+Metadata + Image uploaded to IPFS
             │
             ▼
-⚡ Coin created on Zora (Base)
+Coin created on Zora (Base)
             │
             ▼
-🟢 Live and tradeable
+Live and tradeable
 ```
 
 **~30 seconds** from Solana graduation to Base launch.
@@ -46,11 +46,11 @@
 
 ## Features
 
-- ✅ **Real-time monitoring** - We catch every graduation
-- ✅ **Automatic IPFS storage** - Permanent, decentralized metadata
-- ✅ **Instant Zora launch** - Live on Base in seconds
-- ✅ **Duplicate protection** - No double posts
-- ✅ **24/7 uptime** - Never sleeps
+- **Real-time monitoring** - We catch every graduation
+- **Automatic IPFS storage** - Permanent, decentralized metadata
+- **Instant Zora launch** - Live on Base in seconds
+- **Duplicate protection** - No double posts
+- **24/7 uptime** - Never sleeps
 
 ---
 
@@ -63,7 +63,7 @@ There are no emissions, no staking schemes, and no yield promises.
 Everything is funded purely by real activity.
 
 ```
-                    💱 USER TRADES ON ZORA
+                       USER TRADES ON ZORA
                             │
                             ▼
                 ┌───────────────────────┐
@@ -88,7 +88,7 @@ Everything is funded purely by real activity.
                                 │
                                 ▼
                 ┌───────────────────────────────┐
-                │  🏦 COINHUB TREASURY GROWS    │
+                │     COINHUB TREASURY GROWS    │
                 │  All onchain. All verifiable. │
                 └───────────────────────────────┘
 ```
@@ -157,18 +157,6 @@ Anyone can verify the flow independently.
 
 ---
 
-### What CoinHub Is Not
-
-- ❌ No inflation
-- ❌ No staking rewards
-- ❌ No emissions
-- ❌ No hidden mechanics
-- ❌ No reliance on future promises
-
-CoinHub grows only when people use it.
-
----
-
 ### The Result
 
 Trading activity creates fees.
@@ -193,4 +181,4 @@ Experimental software. Crypto is risky. DYOR. NFA. We bridge tokens automaticall
 
 ### **Cross-chain isn't the future. It's now.**
 
-🔗 [Website](https://basedcoinhub.xyz) • 𝕏 [Twitter](https://x.com/Based_Coinhub) • 🟣 [Zora](https://zora.co/@coinhub)
+[Website](https://basedcoinhub.xyz) • [Twitter](https://x.com/Based_Coinhub) • [Zora](https://zora.co/@coinhub)
