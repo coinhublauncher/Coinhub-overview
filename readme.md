@@ -1,6 +1,6 @@
-# CoinHub - Pump.fun → Zora Bridge
+# CoinHub - Pump.fun → Zora & Clanker Bridge
 
-### **Pump.fun graduations → Zora Base launches. Instantly. Automatically.**
+### **Pump.fun graduations → Zora & Clanker launches. Instantly. Automatically.**
 
 [![Live](https://img.shields.io/badge/Status-LIVE-brightgreen?style=for-the-badge)](https://basedcoinhub.xyz)
 [![Solana → Base](https://img.shields.io/badge/Solana_→_Base-BRIDGED-purple?style=for-the-badge)](https://zora.co/@coinhub)
@@ -9,9 +9,9 @@
 
 ## TL;DR
 
-**Bridge:** When a token graduates on Pump.fun, we automatically launch it on Zora (Base). No manual work.
+**Bridge:** When a token graduates on Pump.fun, we automatically launch it on both Zora and Clanker (Base).
 
-**Protocol:** Trading fees are collected and split. Tokens go to treasury, ETH is split between treasury revenue and buying back $COINHUB. No emissions, no staking.
+**Protocol:** 50% of trading fees from all platforms go directly into buying back $COINHUB.
 
 ---
 
@@ -24,10 +24,13 @@ Token graduates on Pump.fun
 Metadata + Image uploaded to IPFS
             │
             ▼
-Coin created on Zora (Base)
-            │
+    ┌───────┴───────┐
+    ▼               ▼
+Zora (Base)    Clanker (Base)
+    │               │
+    └───────┬───────┘
             ▼
-Live and tradeable
+   Live and tradeable
 ```
 
 **~30 seconds** from Solana graduation to Base launch.
@@ -36,11 +39,11 @@ Live and tradeable
 
 ## Why It Matters
 
-| For Degens | For Launchers |
-|------------|---------------|
-| Early access to trending SOL tokens on Base | Your token goes multi-chain automatically |
-| Lower gas fees to trade | Tap into the Base/Zora community |
-| Cross-chain opportunities | Zero extra work required |
+| For Degens | For the Ecosystem |
+|------------|-------------------|
+| Early access to trending SOL tokens on Base | Tokens go multi-platform automatically |
+| Lower gas fees to trade | Tap into both Zora and Clanker communities |
+| Cross-chain opportunities | |
 
 ---
 
@@ -48,7 +51,7 @@ Live and tradeable
 
 - **Real-time monitoring** - We catch every graduation
 - **Automatic IPFS storage** - Permanent, decentralized metadata
-- **Instant Zora launch** - Live on Base in seconds
+- **Dual-platform posting** - Every token launches on both Zora and Clanker
 - **Duplicate protection** - No double posts
 - **24/7 uptime** - Never sleeps
 
@@ -63,7 +66,7 @@ There are no emissions, no staking schemes, and no yield promises.
 Everything is funded purely by real activity.
 
 ```
-                       USER TRADES ON ZORA
+                  USER TRADES ON ZORA / CLANKER
                             │
                             ▼
                 ┌───────────────────────┐
@@ -99,7 +102,7 @@ Everything is funded purely by real activity.
 
 #### 1. Trading generates fees
 
-When users trade supported tokens on Zora, trading fees are generated at the protocol level.
+When users trade supported tokens on Zora or Clanker, trading fees are generated at the protocol level.
 
 These fees are automatically split:
 - Part in the traded token
